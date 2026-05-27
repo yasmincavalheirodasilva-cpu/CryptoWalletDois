@@ -6,7 +6,7 @@ public class Carteira {
     public Carteira(String dono) {
         this.dono = dono;
         this.saldoBitcoin = 0.0;
-        this.senhaAcesso = "1234";
+        this.senhaAcesso = "123456";
     }
 
     public void depositar(double qtd) {
